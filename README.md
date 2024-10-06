@@ -19,11 +19,11 @@ Clone the project
 and pip install all the libraries used.
 ## Screenshots
 
-![alt text](photos_required/demoPhotos/1.png.png)
-![alt text](photos_required/demoPhotos/2.png.png)
-![alt text](photos_required/demoPhotos/3.png.png)
-![alt text](photos_required/demoPhotos/4.png.png)
-![alt text](photos_required/demoPhotos/5.png.png)
+![alt text](photos_required/demoPhotos/1.png)
+![alt text](photos_required/demoPhotos/2.png)
+![alt text](photos_required/demoPhotos/3.png)
+![alt text](photos_required/demoPhotos/4.png)
+![alt text](photos_required/demoPhotos/5.png)
 
 
 
